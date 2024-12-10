@@ -10,12 +10,12 @@ https://drive.google.com/drive/folders/11BHnyKy0l9Yt0ml0ZNL6L1HZaGsf4PwR?usp=dri
 Download model.safetensors and associated files from Google Drive
 
 ## Available Files:
-model.safetensors (4,27,697 KB)
-config.json (1 KB)
-special_tokens_map.json (1 KB)
-tokenizer.json (695 KB)
-tokenizer_config.json (2 KB)
-vocab.txt (227 KB)
+-model.safetensors (4,27,697 KB)
+-config.json (1 KB)
+-special_tokens_map.json (1 KB)
+-tokenizer.json (695 KB)
+-tokenizer_config.json (2 KB)
+-vocab.txt (227 KB)
 
 ## Project Overview
 The model takes text as input (e.g., news headlines, sentences) and classifies it into one of the three sentiment categories. This model can be useful for analyzing financial news, social media sentiment, product reviews, and more.
