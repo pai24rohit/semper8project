@@ -80,9 +80,7 @@ Confidence score: 0.71
 ## Sentiment Labels:
 
 - negative: Represents a negative sentiment.
-- 
 - neutral: Represents neutral sentiment (neither positive nor negative).
-- 
 - positive: Represents a positive sentiment.
 
 ## Interpreting the Output:
