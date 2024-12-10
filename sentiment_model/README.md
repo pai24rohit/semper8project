@@ -11,10 +11,15 @@ Download model.safetensors and associated files from Google Drive
 
 ## Available Files:
 -model.safetensors (4,27,697 KB)
+
 -config.json (1 KB)
+
 -special_tokens_map.json (1 KB)
+
 -tokenizer.json (695 KB)
+
 -tokenizer_config.json (2 KB)
+
 -vocab.txt (227 KB)
 
 ## Project Overview
@@ -24,7 +29,9 @@ The model takes text as input (e.g., news headlines, sentences) and classifies i
 Fine-tuned model for sentiment analysis on financial text.
 Three sentiment categories:
 -negative: Indicates a negative sentiment.
+
 -neutral: Indicates neutral sentiment.
+
 -positive: Indicates a positive sentiment.
 
 ## Technologies Used:
